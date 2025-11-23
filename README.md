@@ -2,6 +2,8 @@
 
 A clean and responsive personal portfolio website built with Bootstrap 5.
 
+Available at: https://ferrettiberlin-ops.github.io/GDG-github-workshop/
+
 
 ```
 
@@ -11,7 +13,6 @@ A clean and responsive personal portfolio website built with Bootstrap 5.
 - **Bootstrap 5.3.8**: CSS framework for responsive design
 - **GitHub Pages**: Free hosting platform
 
-Available at: https://ferrettiberlin-ops.github.io/GDG-github-workshop/
 
 
 ```
